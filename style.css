@@ -1,0 +1,11 @@
+body {
+    background: #222;
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    text-align: center;
+}
+canvas {
+    background: #3a2f0b;
+    border: 2px solid #fff;
+    margin-top: 20px;
+}
